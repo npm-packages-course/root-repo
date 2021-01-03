@@ -1,0 +1,9 @@
+[submodule "python-service"]
+	path = python-service
+	url = https://github.com/npm-packages-course/python-service.git
+[submodule "express-service"]
+	path = express-service
+	url = https://github.com/npm-packages-course/express-service.git
+[submodule "common-package"]
+	path = common-package
+	url = https://github.com/npm-packages-course/common-package.git
